@@ -1,0 +1,16 @@
+
+
+.button:hover {
+    -fx-background-color:orange;
+}
+
+.root {
+    -fx-background-color: blue;
+}
+
+.button {
+        -fx-background-color: green;
+        -fx-font-family: "Arial Black";
+        -fx-font-size: 11pt;
+        -fx-text-fill: red;
+}
